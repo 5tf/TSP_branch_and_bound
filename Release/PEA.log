@@ -1,0 +1,9 @@
+﻿  PEA.cpp
+  stdafx.cpp
+  TSP.cpp
+C:\Users\elste\source\repos\PEA\PEA.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  Finished generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 313 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  PEA.vcxproj -> C:\Users\elste\source\repos\PEA\Release\PEA.exe

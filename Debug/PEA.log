@@ -1,0 +1,6 @@
+﻿  PEA.cpp
+  stdafx.cpp
+  TSP.cpp
+  Generating Code...
+C:\Users\elste\source\repos\PEA\PEA.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PEA.vcxproj -> C:\Users\elste\source\repos\PEA\Debug\PEA.exe
